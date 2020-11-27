@@ -8,6 +8,3 @@ def slect_money():
         print('发工资啦')
     else:
         print("不开心，未收到工资")
-
-
-if __name__ == '__main__':
