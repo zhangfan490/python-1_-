@@ -1,0 +1,15 @@
+Cat: &data1
+  name: "小黑"
+  color: "黑色"
+  age: 2,
+  hair: "短毛"
+  gender: "female"
+  skill: "捉老鼠"
+
+Dog: &data2
+  name: "小白"
+  color: "白色"
+  age: 3
+  hair: "长毛"
+  gender: "male"
+  skill: "看家"
